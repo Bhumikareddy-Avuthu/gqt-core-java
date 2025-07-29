@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @author sweety
  * @category alphabet patterns
- * @description this is an example for alphabet Q pattern
+ * @description this is an example for alphabet R pattern
  */
 public class PatternR {
 	/**
