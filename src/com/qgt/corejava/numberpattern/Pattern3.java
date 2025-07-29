@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * @author sweety
  * @category number patterns
- * @description This is an example of number 2 pattern
+ * @description This is an example of number 3 pattern
  */
 public class Pattern3 {
 	/**
